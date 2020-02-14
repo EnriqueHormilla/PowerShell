@@ -139,8 +139,8 @@ function get_task_tree ($server, $cert, $id) {
 <# 
 Puedes mirar lo siguiente en el server para ver qué tiene Rugs ahora mismo?
 
-Número de licencias Professional
-Número de licencias Analyzer
+Número de licencias Professional OK
+Número de licencias Analyzer OK
 
 Recargas programadas/dia OK
 Espacio utilizado en disco 50% (las app si)

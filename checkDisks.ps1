@@ -24,7 +24,6 @@
     })]
     [string]$fichero
 )
-
 Function checkStatusDisk([string]$arg) {
 
 ##Comprobar que es alcanzable con un unico ping de 16 bytes y que devuelva Booleano, sin devolver errores adicionales
